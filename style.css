@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: #30356E;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+}
+
+h3 {
+    color: grey;
+    font-size: 2rem;
+    padding:15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#lightImg {
+    width: 200px;
+
+}
+button{
+    padding:10px 35px;
+    font-size: 20px;
+    font-weight: 500;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
